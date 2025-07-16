@@ -54,7 +54,9 @@ This project demonstrates how digital logic can be used to build a real-world au
 ---
 
 ## 📸 Previews
+## Schematic Preview
 - <img width="1290" height="821" alt="Schematic" src="https://github.com/user-attachments/assets/9d58c396-5458-4d3b-a75a-8099cb1be5fa" />
+## PCB Layout
 - <img width="839" height="783" alt="2D PCB" src="https://github.com/user-attachments/assets/2f6d60fc-edca-4677-9eb3-8378dff8df77" />
 
 
