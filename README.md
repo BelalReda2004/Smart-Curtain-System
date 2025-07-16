@@ -27,7 +27,6 @@ An LED output indicates system errors or specific status conditions.
 🧾 PCB Layout
 <img width="839" height="783" alt="2D PCB" src="https://github.com/user-attachments/assets/a2db37d2-61f2-47ba-81d5-530c7935fb58" />
 
-
 🔧 Visual Components
 🖥️ Schematic Diagram: Designed to clearly illustrate logic flow and component connections.
 🧾 2D PCB Layout: Professionally drawn to match real-world implementation.
